@@ -13,6 +13,57 @@ A revolutionary hands-free computer control system using hand gestures, eye trac
 - **🎯 Smart Calibration** - Easy setup with guided calibration
 - **🌙 Dark/Light Themes** - Customizable UI
 
+**## Usage Instructions**
+**Basic Controls:**
+
+** Press 'q' - Quit the application
+
+** Press 'c' - Enter calibration mode
+
+** Press 'h' - Show help information
+
+** Press 'ESC' - Emergency stop (releases all controls)
+
+**Hand Gestures:**
+
+** Open Hand - Move cursor
+
+** Fist - Left click
+
+** Two Fingers - Right click
+
+** Thumb Up - Scroll up
+
+** Thumb Down - Scroll down
+
+** Palm - Drag (hold and move)
+
+** Pinch - Zoom
+
+**Voice Commands:**
+
+** "click" - Left click
+
+** "double click" - Double click
+
+** "right click" - Right click
+
+** "scroll up" / "scroll down" - Scroll
+
+** "volume up" / "volume down" - Adjust volume
+
+** "mute" - Mute audio
+
+** "open browser" - Open web browser
+
+** "close window" - Close current window
+
+**Eye Tracking:**
+
+** Look at screen position to move cursor
+
+Enable "dwell click" in settings for automatic clicking
+
 ## 🚀 Quick Start
 
 ### Windows Users:
