@@ -75,7 +75,7 @@ Enable "dwell click" in settings for automatic clicking
 ### All Platforms:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/touchless-control-system.git
+git clone https://github.com/manikantneelam453/touchless-control-system.git
 cd touchless-control-system
 
 # Install dependencies
